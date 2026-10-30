@@ -1,0 +1,6 @@
+{
+  "name": "Flores de mi Esquina",
+  "description": "Elige tus flores y consulta tu encargo por WhatsApp. Catálogo digital cálido y ágil para florerías y puestos de flores. Una solución de IR Centro Creativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
